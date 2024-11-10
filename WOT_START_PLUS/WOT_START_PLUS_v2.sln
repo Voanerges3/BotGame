@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WOT_START_PLUS_v2", "WOT_START_PLUS\WOT_START_PLUS_v2.csproj", "{3FE2BE29-305B-41D6-BFF7-46E856CDC0EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FE2BE29-305B-41D6-BFF7-46E856CDC0EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE2BE29-305B-41D6-BFF7-46E856CDC0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE2BE29-305B-41D6-BFF7-46E856CDC0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE2BE29-305B-41D6-BFF7-46E856CDC0EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC8F133D-0F18-4629-B62B-5E43D05FC665}
+	EndGlobalSection
+EndGlobal
